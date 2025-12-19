@@ -53,7 +53,5 @@ Each dashboard card is mapped to a full-page section using index-based logic.
 
 * I will update this section as I build new features.
 
-## Day 1
-* Created dashboard layout
-* Designed cards using CSS
-* Implemented basic click navigation
+## Day 2
+* Working On th first card that is To Do List
